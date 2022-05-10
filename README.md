@@ -33,9 +33,19 @@ Enthusiast about technology, challenges, possibilities, algorithms. I believe in
 
 ## 🔭 Projects
 
+- Girls Support Girls
+
 I've been working with <img src="https://avatars.githubusercontent.com/u/47870263?s=200&v=4" width="25">[Girls Support Girls](https://github.com/gsgcommunity), a nonprofit and independent organization which aims to support and increase the number of women in STEM since 2018.
 
-## 💬 Talks
+- [Data mining for prediction of mortality in animal testing](https://github.com/tatiana-scda/pupplystics)
+
+A study of animal abuse in industries based on public domain data from the U.S. Environmental Protection Agency (EPA) on chemical experiments done using animals. With this project, it is expected to understand and predict the behavior of chemical elements, their doses and other relevant characterization of the test in order to predict the expected outcome of an experiment.
+
+- [Analysys on women's presence in higher education in Brazil](https://github.com/tatiana-scda/women_in_grad)
+
+The presence of women in higher education is a recent achievement. Since the colonial period, women have had late access to traditional education. In the United States, Ohio, the world's first female university was founded in 1837, according to Bezerra (2010, p. 3), and in Brazil, women had access to higher education in the 19th century, but the most significant presence is seen from 1960. Today, women are the majority in traditional education, especially with the expansion of private universities, which have surpassed the number of public university openings. This research studies about the female presence in the higher education of the last decade, to understand the social factors in this context.
+
+## 💬 Knowledge Sharing
 
 - Hotmart Labs 2020
 
@@ -43,9 +53,11 @@ History of computing and the pioneering spirit of women in the area, I spoke abo
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E22AQFCXej68VHuRg/feedshare-shrink_800/0/1576879765286?e=1655337600&v=beta&t=jgOjeXejDYTkjZvGgwicxXq-8UMgQgVaKCESRSYYNfI" width="100">
 
+- [A volta das mulheres na computação](https://www.take.net/blog/devs/a-volta-das-mulheres-na-computacao/) 🇧🇷 (The return of women in computer science) 2019
+
 - She's Tech 2019
 
-Algorithms Bias
+[Impartiality in Algorithms: Importance of Diversity and Social Impact](https://conference2019.shestech.org/events/7plN5zF1MS1ApwzbULPR)
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E22AQH-0KwY8rVb4A/feedshare-shrink_800/0/1574784626995?e=1655337600&v=beta&t=-_6ReBdlyhku18PbXJa5r8N7H0Bms9WENBABXN38TSc" width="100">
 

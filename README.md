@@ -51,7 +51,7 @@ The presence of women in higher education is a recent achievement. Since the col
 
 History of computing and the pioneering spirit of women in the area, I spoke about our day-to-day life and I was able to teach a little about programming logic.
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E22AQFCXej68VHuRg/feedshare-shrink_800/0/1576879765286?e=1655337600&v=beta&t=jgOjeXejDYTkjZvGgwicxXq-8UMgQgVaKCESRSYYNfI" width="100">
+<img src="https://imgur.com/NPCoyJO.jpg" width="150">
 
 - [A volta das mulheres na computação](https://www.take.net/blog/devs/a-volta-das-mulheres-na-computacao/) 🇧🇷 (The return of women in computer science) 2019
 
@@ -59,19 +59,19 @@ History of computing and the pioneering spirit of women in the area, I spoke abo
 
 [Impartiality in Algorithms: Importance of Diversity and Social Impact](https://conference2019.shestech.org/events/7plN5zF1MS1ApwzbULPR)
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E22AQH-0KwY8rVb4A/feedshare-shrink_800/0/1574784626995?e=1655337600&v=beta&t=-_6ReBdlyhku18PbXJa5r8N7H0Bms9WENBABXN38TSc" width="100">
+<img src="https://imgur.com/ixqP5jg.jpg" width="150"> <img src="https://imgur.com/6YNJywU.jpg" width="150">
 
 - Mind the Gap 2019
 
 Encouraging interest in the STEM field for girls in school
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E22AQHApLLBKxUlEA/feedshare-shrink_800/0/1572715568557?e=1655337600&v=beta&t=0fC0BW9kKMEMU2CKMpvKp4z9V8nJrJBDXQz1OSgVpDg" width="100">
+<img src="https://imgur.com/2S7rJGi.jpg" width="150">
 
 - Mind the Gap 2018
 
 Presenting a data science research for predicting side effects in animals undergoing test phases
 
-<img src="https://media-exp1.licdn.com/dms/image/C5122AQGe-2OSx8PIbg/feedshare-shrink_800/0/1579907967659?e=1655337600&v=beta&t=Lqpo49I0BiChGlx708ifT5F3ZR3B9a9c9sqP7VnOEkI" width="100">
+<img src="https://imgur.com/hfsWxPp.jpg" width="150">
 
 ## 📫 Reach me 
 

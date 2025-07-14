@@ -1,6 +1,6 @@
-<h2> Hey, I'm Tatiana (she/her) <img src="https://media.giphy.com/media/NQDcH2ZZaPV8QBDYK3/giphy.gif" width="100"></h2>
+<h2> Hey, I'm Tatiana!</h2>
 
-I'm a 🇧🇷 brazilian Software Engineer since 2015. 
+I'm a Software Engineer since 2015. 
 
 Enthusiast about technology, challenges, possibilities, algorithms. I believe in the power of technology development to ensure a sustainable, democratic, accessible, socially and economically fair society.
 
